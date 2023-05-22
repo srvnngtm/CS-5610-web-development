@@ -243,3 +243,11 @@ p#id-selector-2 {
     float: left;
  }
  
+
+ .btn-primary.override-bs {
+    background-color: plum;
+    border-color: pink;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
