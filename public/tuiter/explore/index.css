@@ -1,0 +1,48 @@
+.search-twitter-text-box{
+    border: 0px;
+    outline: none;
+
+}
+
+.search-twitter-text{
+    border-radius: 500px;
+    padding: 0px 20px 0px 20px;
+    background-color: #ebe8e8;
+    margin: 0 0 0 20%;
+    padding: 10px 50px 10px 60px;
+    
+}
+
+.search-twitter-text-box{
+    font-size: 25px;
+    
+}
+
+.icon-magnifying{
+    position: absolute;
+    color: #737475;
+    font-size: 20px;
+    margin-left: 22%;
+    margin-top: 15px;
+}
+
+
+.icon-gear{
+    color: #737475;
+    font-size: 20px;
+    margin: 16px 0 0 40px;
+}
+
+input{
+    background-color: #ebe8e8;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+    height: 100px;
+}
+
