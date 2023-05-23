@@ -39,18 +39,6 @@ input {
     background-color: #ebe8e8;
 }
 
-.wd-float-left {
-    float: left;
-}
-
-.wd-float-right {
-    float: right;
-    height: 100px;
-}
-
-.wd-float-done {
-    clear: both;
-}
 
 .wd-navigation-div {
     display: flex;

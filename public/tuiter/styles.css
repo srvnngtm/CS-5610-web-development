@@ -1,0 +1,11 @@
+.wd-float-left {
+    float: left;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-float-right {
+    float: right;
+}
