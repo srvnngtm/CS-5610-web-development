@@ -112,3 +112,19 @@ input {
     font-weight: bolder;
     font-size: 25px;
 }
+
+.wd-search-tuiter {
+    bottom: 25px;
+    left: 12px;
+  }
+
+  .wd-bootstrap-gear{
+    color: blue
+  }
+
+
+  .wd-explore-image{
+    position: relative;
+    top: 40px;
+    right: 40px;
+  }
