@@ -8,7 +8,7 @@ import TuitSummaryItem
 
 
 const TuitSummaryList = () => {
-  const { tuits } = useSelector(state => state.tuits)
+  const { tuits } = useSelector(state => state.tuitExplore)
  return(
    <ul className="list-group">
      {

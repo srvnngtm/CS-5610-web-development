@@ -10,8 +10,9 @@ import whoReducer from "./reducers/who-reducer";
 import tuitReducer from "./reducers/tuit-reducer";
 import { configureStore } from "@reduxjs/toolkit";
 import { Provider } from "react-redux";
+import tuitReducerForExplore from "./reducers/tuit-reducer-for-explore";
 const store = configureStore(
-  {reducer: {who:whoReducer, tuits: tuitReducer}}
+  {reducer: {who:whoReducer, tuits: tuitReducer, tuitExplore: tuitReducerForExplore}}
 );
 
 
