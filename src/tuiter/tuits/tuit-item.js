@@ -3,12 +3,12 @@ import { faCircleCheck, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import TuitStats from "../tuit-stats/tuit-stats";
 import { useDispatch } from "react-redux";
-import { deleteTuit } from "../reducers/tuit-reducer";
+import {deleteTuitThunk} from "../services/tuits-thunk";
 
 const TuitItem = ({ tuit = {} }) => {
   const dispatch = useDispatch();
   const deleteTuitHandler = (id) => {
-    dispatch(deleteTuit(id));
+    dispatch(deleteTuitThunk(id));
   };
   return (
     <li className="list-group-item">
