@@ -1,0 +1,130 @@
+.wd-search-twitter-text-box {
+    border: 0px;
+    outline: none;
+
+}
+
+.wd-search-twitter-text {
+    border-radius: 500px;
+    background-color: #ebe8e8;
+    margin: 0 0 0 10%;
+    padding: 10px 5% 10px 5%;
+    width: 60%;
+
+}
+
+.wd-search-twitter-text-box {
+    font-size: 25px;
+    width: 80%;
+    padding-left: 10%;
+
+}
+
+.wd-icon-magnifying {
+    position: absolute;
+    color: #737475;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+
+.wd-icon-gear {
+    color: #737475;
+    font-size: 20px;
+    margin: 16px 0 0 40px;
+}
+
+input {
+    background-color: #ebe8e8;
+}
+
+
+.wd-navigation-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    border-bottom: solid 1px;
+    border-color: #dcdce0;
+}
+
+.wd-selected-tab {
+    color: #141415;
+    font-size: 25px;
+    font-weight: bolder;
+    border-bottom: solid 7px;
+    border-color: #75a4cd;
+    display: inline-block;
+    padding: 16px;
+}
+
+.wd-non-selected-tab {
+    color: #737475;
+    font-size: 25px;
+    font-weight: bolder;
+    display: inline-block;
+    padding: 16px;
+}
+
+
+.wd-img-header {
+    height: 400px;
+    width: 100%;
+}
+
+.wd-banner-block {
+    position: relative;
+    text-align: center;
+    color: #141415;
+}
+
+.wd-text-overlay {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+
+.wd-trending-block li {
+    display: block;
+    padding: 20px 0px 20px 0px;
+    margin: 0 20px 0 20px;
+    list-style-type: none;
+    
+}
+.wd-trending-block ul{
+    padding: 0;
+    list-style-type: none;
+    
+}
+
+.wd-trending-header{
+    color: #737475;
+}
+.wd-icon-ellipsis{
+    float: right;
+    padding-top: 2px;
+}
+
+.wd-trending-body{
+    color: #141415;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.wd-search-tuiter {
+    bottom: 25px;
+    left: 12px;
+  }
+
+  .wd-bootstrap-gear{
+    color: blue
+  }
+
+
+  .wd-explore-image{
+    position: relative;
+    top: 40px;
+    right: 40px;
+  }

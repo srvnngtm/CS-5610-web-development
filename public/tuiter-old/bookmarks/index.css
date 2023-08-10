@@ -1,0 +1,95 @@
+.wd-bookmarks-header{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px 20px 20px 0px ;
+    border: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    border-bottom: none;
+    border-top-width: 2px;
+
+}
+
+.wd-left-icon {
+    width: 50px;
+    border-radius:50%;
+    overflow:hidden;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+
+.wd-main-tuit {
+    width: 600px;
+}
+
+.wd-tuit{
+    border: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    border-top: none;
+    padding: 12px 12px 12px 0px;
+}
+
+.wd-trending-header{
+    color: #737475;
+    
+}
+.wd-icon-ellipsis{
+    float: right;
+    padding-top: 2px;
+}
+
+.wd-trending-body{
+    color: #141415;
+    font-weight: bolder;
+    
+    /* font-size: 25px; */
+}
+
+.wd-tuit-content{
+    margin-left : 74px;
+    padding : 25px 0 20px 0 ;
+}
+
+.wd-tuit-inner-content{
+    border:1px;
+    border-style: solid;
+    border-color: lightgray;
+    width: 550px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.wd-tuit-image{
+    /* margin-top: -5px; */
+    width : 100%;
+    border-radius: 10px 10px 0 0;
+    overflow:hidden;
+}
+
+.wd-tuit-text-content{
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+.wd-icons-bottom {
+    
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    padding-bottom: 0px;
+    color: black;
+}
+
+.wd-icons-bottom a {
+    text-decoration: none;
+    color: gray;
+}
+
+
+
